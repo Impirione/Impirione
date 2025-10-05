@@ -1,0 +1,20 @@
+{
+  "name": "impirione",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "predeploy": "tsc -b && vite build",
+    "deploy": "gh-pages -d dist",
+    "build": "tsc -b && vite build",
+    "lint": " eslint .",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "gh-pages": "^6.3.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7"
+  }
+}
