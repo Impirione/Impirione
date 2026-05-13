@@ -12,20 +12,11 @@
 ## ⚔️ Tecnologias
 
 <p align="center">
-  <img align="center" alt="Java" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="TypeScript" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-
-  <img align="center" alt="C++" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 ---
