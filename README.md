@@ -51,4 +51,4 @@ https://github.com/impirione
 ---
 
 ## 🎯 Objetivo
-Continuar evoluindo como desenvolvedor, criando projetos modernos, games e aplicações web com foco em performance e experiência do usuário.
+Continuar evoluindo como desenvolvedor, criando projetos modernos, games e aplicações.
