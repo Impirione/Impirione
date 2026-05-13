@@ -24,7 +24,7 @@
 ## 🕹️ Projeto em Destaque
 
 ### 🔥 JogoMarvel
-Projeto inspirado no universo Marvel desenvolvido para prática de lógica, interface e interação.
+Projeto inspirado no universo Marvel, desenvolvido para prática de lógica, interface e interação. O projeto ainda não está finalizado.
 
 ---
 
